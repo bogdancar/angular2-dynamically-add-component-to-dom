@@ -1,0 +1,25 @@
+.wrapper {
+    background-color: wheat;
+    height: 600px;
+    overflow: auto;
+    position: relative;
+}
+
+.parent_description {
+    bottom: 0;
+    position: absolute;
+    right: 0;
+}
+
+.button {
+    background-color: blue;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    float: left;
+    margin: 5px;
+    outline: none;
+    text-align: center;
+    user-select: none;
+    width: 150px;
+}

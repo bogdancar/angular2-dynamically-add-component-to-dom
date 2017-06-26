@@ -1,3 +1,7 @@
+This is a demo on how to dynamically add/remove components to DOM on Angular 2/4, since using jQuery with Angular 2 is not right on many levels.
+To run the demo, do npm install, then ng serve -o.
+For detailed manipulation of the elements inside the injected container, look at the methods of ViewContainerRef at [ViewContainerRef Angular Doc](https://angular.io/api/core/ViewContainerRef)
+
 # Angular2DynamicallyAddComponentToDom
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
